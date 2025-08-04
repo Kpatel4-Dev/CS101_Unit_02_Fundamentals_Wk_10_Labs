@@ -7,7 +7,7 @@ This unit includes a mix of Snap! and Python activities to build your programmin
 ### ✅ What to Complete
 - [ ] Complete Any Snap Labs on [snap.berke  ](https://snap.berkeley.edu/) for this week
 - [ ] 1 Python Programming Homework assignments
-     ##### 📌 Programming HW02 MadLibs Instructions: [Prog HW 2: MidLibs](Unit02_Fundamentals/ProgrammingHW02/HW02_Instruction_README.md)
+     ##### 📌 Programming HW02 MadLibs Instructions: [Prog HW 2: MidLibs](ProgHW/MadLibs_README.md)
 - Checkout the Examples_Demos
 
 ---
